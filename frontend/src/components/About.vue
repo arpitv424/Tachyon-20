@@ -84,12 +84,7 @@
       </section>
       <section class="videoPlayer">
         <div class="container embed-responsive embed-responsive-16by9">
-          <iframe
-            src="https://www.youtube.com/embed/wYAFdwIOyW8"
-            frameborder="0"
-            allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-            allowfullscreen
-          ></iframe>
+          <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FJuetFirefoxClub%2Fvideos%2F896459814139578%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
         </div>
       
       </section>
