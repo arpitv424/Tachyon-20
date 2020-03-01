@@ -79,7 +79,7 @@ export default {
         },
         {
           name: "JUET HACKS",
-          link: "/events"
+          link: "&events"
         },
         ,
         {
@@ -109,7 +109,13 @@ export default {
     navTo(link) {
       if(link.startsWith('/')) {
         this.$router.push(link);
-      } else {
+      } 
+      
+       else if(link.startsWith("&")){
+      window.location.href='https://www.juethacks.co'
+      }
+      
+      else {
         this.$router.push('/');
         this.$scrollTo(link, 1000, {
           offset: link == '#hero' ? 0 : 900
