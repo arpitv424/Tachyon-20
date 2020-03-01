@@ -109,7 +109,7 @@ export default {
       } 
 
       else if(link.startsWith("&")){
-      window.location.href='https://www.google.com'
+      window.location.href='https://www.juethacks.co'
       }
 
       else {
