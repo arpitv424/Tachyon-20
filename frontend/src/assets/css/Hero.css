@@ -117,10 +117,11 @@ canvas {
 }
 
 #logo-text {
-  font-size: 10em;
+  font-size: 12em;
   /* text-transform: uppercase; */
   position: relative;
   text-align: center;
+  font-family: Electric Boots;
   /* font-family: 'Bahnschrift Condensed'; */
   letter-spacing: 5px;
   color: black;
@@ -264,7 +265,7 @@ canvas {
 }
 
 #eventInfo .date {
-  color: #004dc6;
+  color: #0abcf2;
   font-size: 32px;
   font-family: Arial;
   font-weight: bold;
