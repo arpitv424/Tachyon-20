@@ -62,17 +62,17 @@
       </svg>
 
       <div id="logo-text">
-        <span class="flicker-on">T</span>
-        <span>A</span>
-        <span>C</span>
-        <span>H</span>
-        <span>Y</span>
-        <span>O</span>
-        <span>N</span>
+        <span class="flicker-on">t</span>
+        <span>a</span>
+        <span>c</span>
+        <span>h</span>
+        <span>y</span>
+        <span>o</span>
+        <span>n</span>
         
       </div>
     </div>
-    <div id="eventInfo">
+    <div id="eventInfo"><br>
       <div class="date">APRIL 10<sup>th</sup> - 11<sup>th</sup> 2020</div>
       <div>TECHFEST JUET 2020</div>
       <div>Stay Tuned</div>
